@@ -1,1 +1,0 @@
-../octeon_ebt3000/u-boot.lds
